@@ -22,3 +22,8 @@ This replaces the default laravel auth scaffolding, so if you want to revert to 
 ## Why?
 
 Bootstrap has outlived its welcome creating generic designs and is lacking in many features required for modern web builds, UIKit 3 has a great eco-system and feature rich making it a perfect modular framework, allowing you to require just what you need.
+
+
+## Issues
+
+If you encounter any issues in running `npm install && npm run dev` then follow [this solution](https://github.com/JeffreyWay/laravel-mix/issues/523#issuecomment-284242797)
